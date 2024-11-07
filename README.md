@@ -29,7 +29,7 @@ This repository contains the following key projects:
   - Feature extraction using TF-IDF
   - Model training with classification algorithms (e.g., Naive Bayes)
   - Performance evaluation using confusion matrix and accuracy score
-- **Repository Link**: [Email Spam Detection](https://github.com/[yourusername/email-spam-detection](https://github.com/HaseebYousafxai/Pinnacle_Tasks/blob/main/spamnotebook.ipynb)
+- **Repository Link**: [Email Spam Detection](https://github.com/HaseebYousafxai/Oasis-Infobyte-tasks/blob/main/spamnotebook.ipynb)
 
 ## Skills Developed
 During my internship, I enhanced my skills in:
